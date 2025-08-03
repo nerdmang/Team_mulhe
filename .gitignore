@@ -97,3 +97,18 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# --- Assets 폴더 설정 시작 ---
+
+# 1. Assets 폴더 전체를 무시
+/[Aa]ssets/**
+
+# 2. Prefabs와 Scenes 폴더만 다시 포함
+!/[Aa]ssets/02_Prefabs/
+!/[Aa]ssets/01_Scenes/
+
+# 3. Prefabs와 Scenes 폴더 안의 모든 파일 포함
+!/[Aa]ssets/02_Prefabsz/**
+!/[Aa]ssets/01_Scenes/**
+
+# --- Assets 폴더 설정 끝 ---
