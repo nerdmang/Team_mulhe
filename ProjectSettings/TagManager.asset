@@ -8,6 +8,13 @@ TagManager:
   - Citizen
   - Head
   - Body
+  - NormalZSpawner
+  - Special1ZSpawner
+  - Speical2ZSpawner
+  - EliteZSpawner
+  - BossZSpawner
+  - HumanSpawner
+  - Barricade
   layers:
   - Default
   - TransparentFX
