@@ -9,12 +9,35 @@ EditorBuildSettings:
     path: Assets/01_Scenes/0MainMenuScene.unity
     guid: fb76d2c3b669eff4f95ed65a69fac723
   - enabled: 1
+    path: Assets/01_Scenes/1CutScene.unity
+    guid: 6ba3ad375d90c4747bbeaca518a7a37f
+  - enabled: 1
     path: Assets/01_Scenes/1StageDesign.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 8103dc2d668fd444faffb2aeed79bcae
+  - enabled: 1
+    path: Assets/01_Scenes/2CutScene.unity
+    guid: 2a4e5ece0a119754c961f3f93c3d9488
   - enabled: 1
     path: Assets/01_Scenes/2StageDesign.unity
-    guid: 3625e7c64a4a7154988529d3c8d3eb01
+    guid: 3859c9a22c99f57488656f644dd984bf
+  - enabled: 1
+    path: Assets/01_Scenes/3CutScene.unity
+    guid: 54472edd19e1181438087c6b8ef76ebe
   - enabled: 1
     path: Assets/01_Scenes/3StageDesign.unity
-    guid: cf3293ea93b4b7c499eb1fb9c6f6e7bb
-  m_configObjects: {}
+    guid: d42c8a6037829bb42b5264a68844bc2d
+  - enabled: 1
+    path: Assets/01_Scenes/4EndingA.unity
+    guid: b68bba367c19a8147978fa181c4b0e8e
+  - enabled: 1
+    path: Assets/01_Scenes/4EndingB.unity
+    guid: be41f50beea7f2844b2b17593dd847cc
+  - enabled: 1
+    path: Assets/01_Scenes/4EndingC.unity
+    guid: 381c68080c4a07244b60da02ced304c1
+  - enabled: 1
+    path: Assets/01_Scenes/4EndingD.unity
+    guid: 318f91a51f7a92645a15f91f45c5d6c7
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
